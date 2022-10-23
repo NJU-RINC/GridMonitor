@@ -19,3 +19,6 @@ conda activate pyqt
 视频流通过 QThread 对象新建线程运行，利用 cond 原语控制视频流的播放暂停。
 
 基准图和检测结果，基于回调展示结果。
+
+## 效果图
+![效果图](./images/img.png)
